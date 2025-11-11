@@ -3,7 +3,7 @@
 ![Screenshot01](https://github.com/RahulM2416/Random-Quote-Generator/blob/main/Img1.png)
 
 ### Screenshot 02 
-![Screenshot01](https://github.com/RahulM2416/Student-Management-cpp/blob/main/sm2.png)
+![Screenshot01](https://github.com/RahulM2416/Random-Quote-Generator/blob/main/Images/Img2.png)
 
 ### Screenshot 03
-![Screenshot01](https://github.com/RahulM2416/Student-Management-cpp/blob/main/sm3.png)
+![Screenshot01](https://github.com/RahulM2416/Random-Quote-Generator/blob/main/Images/Img3.png)
